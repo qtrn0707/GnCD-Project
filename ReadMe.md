@@ -1,4 +1,4 @@
-#**READ ME**
+# **READ ME**
 ------------------
 
 **This read me explains the script *run_analysis.R*.**
